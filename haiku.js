@@ -43,7 +43,7 @@ function Haiku3(){
      console.log("with no leaves to blow.");
 }
 
-
+console.log("test");
 
 //laat de code hieronder met rust
 Haiku1()
